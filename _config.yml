@@ -1,3 +1,4 @@
+theme: minima
 title: WHy couldn't it have been butterflies?
 author: Roma
 email: romajoshileviosa@gmail.com
@@ -9,4 +10,4 @@ twitter_username: 5uppps # DO NOT include the @ character, or else the build wil
 github_username:  Roma637 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima 
+
